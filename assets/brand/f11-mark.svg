@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 260" role="img" aria-labelledby="title desc">
+<title>F11 Arms mark</title><desc>Geometric F11 monogram with factory-inspired vertical forms and a forward slash.</desc>
+<g fill="none" stroke="#C79A3B" stroke-width="28" stroke-linecap="square" stroke-linejoin="miter">
+  <path d="M72 206V54H206"/>
+  <path d="M72 128H178"/>
+  <path d="M258 54V206"/>
+  <path d="M360 54V206"/>
+</g>
+<path d="M38 216L430 46" fill="none" stroke="#E1B65A" stroke-width="18" stroke-linecap="square"/>
+<path d="M258 54H360" stroke="#0B0D0E" stroke-width="34"/>
+</svg>
